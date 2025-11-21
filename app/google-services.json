@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "309065150854",
+    "project_id": "moodtunes-b9f18",
+    "storage_bucket": "moodtunes-b9f18.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:309065150854:android:11ea686796a4ced6403c07",
+        "android_client_info": {
+          "package_name": "com.example.moodtunes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOBwmrXeuLj2Cp2TjCmd2KDLHe3l_fO7E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "com.example.moodtunes.app-debug-43:/layout_activity_splash.xml.flat",
+        "source": "com.example.moodtunes.app-main-45:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\Reayan\\.gradle\\daemon\\9.0-milestone-1\\com.example.moodtunes.app-debug-43:\\raw_bound_2.ogg.flat",
+        "source": "C:\\Users\\Reayan\\.gradle\\daemon\\9.0-milestone-1\\com.example.moodtunes.app-main-45:\\raw\\bound_2.ogg"
+    },
+    {
+        "merged": "C:\\Users\\Reayan\\.gradle\\daemon\\9.0-milestone-1\\com.example.moodtunes.app-debug-43:\\layout_item_track.xml.flat",
+        "source": "C:\\Users\\Reayan\\.gradle\\daemon\\9.0-milestone-1\\com.example.moodtunes.app-main-45:\\layout\\item_track.xml"
+    },
+    {
+        "merged": "C:\\Users\\Reayan\\.gradle\\daemon\\9.0-milestone-1\\com.example.moodtunes.app-debug-43:\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\Reayan\\.gradle\\daemon\\9.0-milestone-1\\com.example.moodtunes.app-main-45:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\Reayan\\.gradle\\daemon\\9.0-milestone-1\\com.example.moodtunes.app-debug-43:\\layout_activity_signup.xml.flat",
+        "source": "C:\\Users\\Reayan\\.gradle\\daemon\\9.0-milestone-1\\com.example.moodtunes.app-main-45:\\layout\\activity_signup.xml"
+    },
+    {
+        "merged": "C:\\Users\\Reayan\\.gradle\\daemon\\9.0-milestone-1\\com.example.moodtunes.app-debug-43:\\raw_money_trees.mp3.flat",
+        "source": "C:\\Users\\Reayan\\.gradle\\daemon\\9.0-milestone-1\\com.example.moodtunes.app-main-45:\\raw\\money_trees.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Reayan\\.gradle\\daemon\\9.0-milestone-1\\com.example.moodtunes.app-debug-43:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Reayan\\.gradle\\daemon\\9.0-milestone-1\\com.example.moodtunes.app-main-45:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Reayan\\.gradle\\daemon\\9.0-milestone-1\\com.example.moodtunes.app-debug-43:\\raw_roxanne.mp3.flat",
+        "source": "C:\\Users\\Reayan\\.gradle\\daemon\\9.0-milestone-1\\com.example.moodtunes.app-main-45:\\raw\\roxanne.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Reayan\\.gradle\\daemon\\9.0-milestone-1\\com.example.moodtunes.app-debug-43:\\raw_cant_get_you_out_of_my_head.mp3.flat",
+        "source": "C:\\Users\\Reayan\\.gradle\\daemon\\9.0-milestone-1\\com.example.moodtunes.app-main-45:\\raw\\cant_get_you_out_of_my_head.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Reayan\\.gradle\\daemon\\9.0-milestone-1\\com.example.moodtunes.app-debug-43:\\menu_menu_main.xml.flat",
+        "source": "C:\\Users\\Reayan\\.gradle\\daemon\\9.0-milestone-1\\com.example.moodtunes.app-main-45:\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Reayan\\.gradle\\daemon\\9.0-milestone-1\\com.example.moodtunes.app-debug-43:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\Reayan\\.gradle\\daemon\\9.0-milestone-1\\com.example.moodtunes.app-main-45:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Reayan\\.gradle\\daemon\\9.0-milestone-1\\com.example.moodtunes.app-debug-43:\\raw_ophelia.mp3.flat",
+        "source": "C:\\Users\\Reayan\\.gradle\\daemon\\9.0-milestone-1\\com.example.moodtunes.app-main-45:\\raw\\ophelia.mp3"
+    }
+]

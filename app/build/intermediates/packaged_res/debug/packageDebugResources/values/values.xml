@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_500">#6200EE</color>
+    <color name="purple_700">#3700B3</color>
+    <string name="already_have_account">Already have an account? Log in</string>
+    <string name="app_name">MoodTunes</string>
+    <string name="create_account">Create account</string>
+    <string name="dont_have_account">Don’t have an account? Sign Up</string>
+    <string name="email_hint">Email</string>
+    <string name="enter_password">Please enter a password.</string>
+    <string name="gcm_defaultSenderId" translatable="false">309065150854</string>
+    <string name="google_api_key" translatable="false">AIzaSyAOBwmrXeuLj2Cp2TjCmd2KDLHe3l_fO7E</string>
+    <string name="google_app_id" translatable="false">1:309065150854:android:11ea686796a4ced6403c07</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAOBwmrXeuLj2Cp2TjCmd2KDLHe3l_fO7E</string>
+    <string name="google_storage_bucket" translatable="false">moodtunes-b9f18.firebasestorage.app</string>
+    <string name="invalid_email">Please enter a valid email.</string>
+    <string name="login">Login</string>
+    <string name="network_error">Network error — check your connection.</string>
+    <string name="password_confirm_hint">Confirm Password</string>
+    <string name="password_hint">Password</string>
+    <string name="password_length_error">Password should be at least 6 characters.</string>
+    <string name="password_mismatch">Passwords do not match.</string>
+    <string name="project_id" translatable="false">moodtunes-b9f18</string>
+    <string name="signup">Sign Up</string>
+    <string name="welcome_back">Welcome back</string>
+    <style name="Theme.MoodTunes" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <item name="colorPrimary">#6200EE</item>
+        <item name="colorPrimaryVariant">#3700B3</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+    </style>
+</resources>
