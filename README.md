@@ -48,19 +48,24 @@ Common commands (Windows PowerShell):
 ## 2 - LOGIN MODULE
 <img width="508" height="861" alt="image" src="https://github.com/user-attachments/assets/a6eb6b51-51bf-43db-84c5-f418f20ceb82" />
 
-## 3 - EVENT MODULE
+## 3 - COMPLETE APP
+
+<img width="500" height="850" alt="image" src="https://github.com/user-attachments/assets/54af4a3a-d26d-49c9-b5ad-bf223fa6eddb" />
+
+
+## 4 - EVENT MODULE
 
 <img width="421" height="585" alt="image" src="https://github.com/user-attachments/assets/98579a30-a694-4a7f-b787-7965a7630a63" />
 
-## 4 - SPLASH MODULE
+## 5- SPLASH MODULE
 
 <img width="479" height="607" alt="image" src="https://github.com/user-attachments/assets/30fbea38-a7d5-41cb-a8c6-3363d8391ca9" />
 
-## 5 - TRACK MODULE
+## 6 - TRACK MODULE
 
 <img width="420" height="750" alt="image" src="https://github.com/user-attachments/assets/3dadb528-a915-44e7-a1b8-d6128de10619" />
 
-## 6 - MENU MODULE
+## 7 - MENU MODULE
 
 <img width="459" height="819" alt="image" src="https://github.com/user-attachments/assets/95cf048b-fdf6-4b18-b3d6-ef8907bd0fed" /> 
 
